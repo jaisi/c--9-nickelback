@@ -1,0 +1,8 @@
+/Users/jaisina/workspace/csharp/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.deps.json
+/Users/jaisina/workspace/csharp/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.runtimeconfig.json
+/Users/jaisina/workspace/csharp/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.runtimeconfig.dev.json
+/Users/jaisina/workspace/csharp/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.dll
+/Users/jaisina/workspace/csharp/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.pdb
+/Users/jaisina/workspace/csharp/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.AssemblyInfo.cs
+/Users/jaisina/workspace/csharp/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.dll
+/Users/jaisina/workspace/csharp/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.pdb
